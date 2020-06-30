@@ -1,9 +1,9 @@
 # Site Info
 title: p1zz4's blog
-tagline: 'for Algorithm'
-description: 'blog for recording'
+tagline: 'blog for recording'
+description: '기록용 블로그 '
 url: http://p1zz4.github.io
-#logo: '/public/logo.png'
+logo: '/public/logo.png'
 encoding: utf-8
 
 # Site configurations

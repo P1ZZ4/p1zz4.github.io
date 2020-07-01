@@ -25,7 +25,7 @@ version: 1.0.0
 author:
   name: p1zz4
   description: Algorithm, NLP, Image Processing, Forensic, Webhacking, Reversing, etc  
-  #gravatar:  # md5 hash of your email address
+  gravatar: 67e693f1f6ea9c8e2d1e7bf36fe5ac1f # md5 hash of your email address
   contact:
     #linkedin:  
     github:    https://github.com/p1zz4

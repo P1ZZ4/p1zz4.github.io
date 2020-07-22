@@ -1,5 +1,5 @@
 ---
-title: Titanic: Machine Learning from Disaster
+title: Titanic_Machine Learning from Disaster
 category: Kaggle
 tag: [Kaggle, Data, ML]
 ---

@@ -335,7 +335,10 @@ submission.head()
 
 ## 참고 
 
-https://predictors.tistory.com/6
-https://www.ahmedbesbes.com/blog/kaggle-titanic-competition
-https://towardsdatascience.com/how-i-got-a-score-of-82-3-and-ended-up-being-in-top-4-of-kaggles-titanic-dataset-bb2875cee6b5
-https://romanticq.github.io/%EC%BA%90%EA%B8%80/kaggle-titanic/
+(https://predictors.tistory.com/6)
+
+(https://www.ahmedbesbes.com/blog/kaggle-titanic-competition)
+
+(https://towardsdatascience.com/how-i-got-a-score-of-82-3-and-ended-up-being-in-top-4-of-kaggles-titanic-dataset-bb2875cee6b5)
+
+(https://romanticq.github.io/%EC%BA%90%EA%B8%80/kaggle-titanic/)

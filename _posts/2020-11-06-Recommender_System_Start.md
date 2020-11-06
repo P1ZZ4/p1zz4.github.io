@@ -7,14 +7,13 @@ tag: [Recommended, Study]
 Aggarwal의 Recommender Systems: The Textbook을 바탕으로 공부하면서 번역한 내용을 정리할 예정이다. 
 
 
----
 Chapter
 ---
 
 
 | CHAPTER                                                                                      | PAGE        |
 |----------------------------------------------------------------------------------------------|:-----------:|
-| <span style="color:#90a959">An Introduction to Recommender Systems</span>                    |  p1 - p28   |
+| <span style="color:green">An Introduction to Recommender Systems</span>                      |  p1 - p28   |
 | <span style="color:darkblue">Neighborhood-Based Collaborative Filtering</span>               |  p29 - p69  |
 | <span style="color:darkblue">Model-Based Collaborative Filtering</span>                      | p71 - p136  |
 | <span style="color:darkblue">Content-Based Recommender Systems</span>                        | p139 - p165 |

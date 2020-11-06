@@ -14,7 +14,7 @@ Chapter
 
 | CHAPTER                                                                                      | PAGE        |
 |----------------------------------------------------------------------------------------------|:-----------:|
-| <span style="color:darkblue">Introduction</span>                                             |  p1 - p28   |
+| <span style="color:#90a959">An Introduction to Recommender Systems</span>                    |  p1 - p28   |
 | <span style="color:darkblue">Neighborhood-Based Collaborative Filtering</span>               |  p29 - p69  |
 | <span style="color:darkblue">Model-Based Collaborative Filtering</span>                      | p71 - p136  |
 | <span style="color:darkblue">Content-Based Recommender Systems</span>                        | p139 - p165 |

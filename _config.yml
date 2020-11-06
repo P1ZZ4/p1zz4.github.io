@@ -51,7 +51,7 @@ category_page: '/blog/categories/'
 
 hero:
   image: https://p1zz4.github.io/public/img/sky.jpeg
-  caption: 말하는 감자  
+  caption: 감자  
   
 # Puglins
 mathjax: true # whether support mathjax

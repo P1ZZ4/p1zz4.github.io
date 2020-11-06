@@ -1,5 +1,5 @@
 ---
-title: Recommender Systems Chapter 1
+title: Recommender Systems
 category: Recommended
 tag: [Recommended, Study]
 ---

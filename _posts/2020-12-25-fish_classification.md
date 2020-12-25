@@ -2,6 +2,7 @@
 title: 생선 분류 문제
 category: DL
 tag: [DL, Data]
+published: false
 ---
 
 * 혼자 공부하는 머신러닝+딥러닝 책을 공부한 내용을 정리하는 포스트입니다.
@@ -12,7 +13,7 @@ tag: [DL, Data]
 
 
 
-# [생선 분류 문제]
+# [생선 분류 문제] : 지도 학습 
 
 데이터 셋에 있는 생선은 다음과 같다. 
 
@@ -114,3 +115,6 @@ kn49 = KNeighborsClassifier(n_neighbors=49)  ## 49개의 근접한 데이터를 
 kn49.fit(fish_data, fish_target)
 kn49.score(fish_data, fish_target)
 ~~~
+
+
+# [생성 분류] :  

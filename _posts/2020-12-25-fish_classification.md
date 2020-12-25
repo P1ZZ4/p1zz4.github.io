@@ -1,5 +1,5 @@
 ---
-title: 생선 분류 문제_혼 
+title: 생선 분류 문제
 category: DL
 tag: [DL, Data]
 ---

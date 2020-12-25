@@ -1,5 +1,5 @@
 ---
-title: [혼공머신] 생선 분류 문제 
+title: 생선 분류 문제_혼 
 category: DL
 tag: [DL, Data]
 ---
